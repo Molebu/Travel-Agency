@@ -63,12 +63,13 @@ span {
 .btnone {
   margin: 0px 10px;
   border: 2px solid yellow;
-  padding: 13px 0px;
+  padding: 13px 2px;
   letter-spacing: 1px;
   color: #000;
   border-radius: 30px;
   background-color: yellow;
   text-decoration: none;
+  font-size: 14px;
 }
 
 .btnone:hover {
@@ -81,12 +82,13 @@ span {
 .btntwo {
   margin: 0px 10px;
   border: 2px solid yellow;
-  padding: 13px 0px;
+  padding: 13px 2px;
   letter-spacing: 1px;
   color: yellow;
   border-radius: 30px;
   background-color: white;
   text-decoration: none;
+  font-size: 14px;
 }
 .btntwo:hover {
   border: 2px solid yellow;
