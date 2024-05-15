@@ -62,14 +62,14 @@ span {
 }
 .btnone {
   margin: 0px 10px;
-  border: 2px solid yellow;
-  padding: 13px 2px;
+  border: 2px solid white;
+  padding: 13px 5px;
   letter-spacing: 1px;
   color: #000;
   border-radius: 30px;
   background-color: yellow;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .btnone:hover {
@@ -82,16 +82,16 @@ span {
 .btntwo {
   margin: 0px 10px;
   border: 2px solid yellow;
-  padding: 13px 2px;
+  padding: 13px 5px;
   letter-spacing: 1px;
   color: yellow;
   border-radius: 30px;
   background-color: white;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 12px;
 }
 .btntwo:hover {
-  border: 2px solid yellow;
+  border: 2px solid white;
   color: #000;
   background-color: yellow;
   transition: 0.5s;
