@@ -63,7 +63,7 @@ span {
 .btnone {
   margin: 0px 10px;
   border: 2px solid yellow;
-  padding: 13px 22px;
+  padding: 13px 10px;
   letter-spacing: 1px;
   color: #000;
   border-radius: 30px;
@@ -81,7 +81,7 @@ span {
 .btntwo {
   margin: 0px 10px;
   border: 2px solid yellow;
-  padding: 13px 22px;
+  padding: 13px 10px;
   letter-spacing: 1px;
   color: yellow;
   border-radius: 30px;
