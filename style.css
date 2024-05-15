@@ -69,6 +69,8 @@ span {
   border-radius: 30px;
   background-color: yellow;
   text-decoration: none;
+  width: 50%;
+  height: 50%;
 }
 
 .btnone:hover {
@@ -87,6 +89,8 @@ span {
   border-radius: 30px;
   background-color: white;
   text-decoration: none;
+  width: 50%;
+  height: 50%;
 }
 .btntwo:hover {
   border: 2px solid yellow;
